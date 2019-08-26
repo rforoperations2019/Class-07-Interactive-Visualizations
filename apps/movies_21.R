@@ -4,6 +4,7 @@ library(DT)
 library(stringr)
 library(dplyr)
 library(tools)
+library(plotly)
 
 load("movies.Rdata")
 
