@@ -25,6 +25,7 @@ pdf(NULL)
 diamonds <- diamonds
 mtcars <- mtcars %>%
   rownames_to_column()
+
 iris <- iris
 starwars <- starwars
 airquality <- airquality %>%
